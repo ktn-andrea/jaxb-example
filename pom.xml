@@ -16,6 +16,13 @@
 			<organization>Faculty of Informatics, University of Debrecen</organization>
 			<organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
 		</developer>
+		<developer>
+			<id>ktn-andrea</id>
+			<name>Andrea Katona</name>
+			<email>ktn.andrea@gmail.com</email>
+			<organization>Faculty of Informatics, University of Debrecen</organization>
+			<organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
+		</developer>
 	</developers>
 	<dependencies>
 		<dependency>
